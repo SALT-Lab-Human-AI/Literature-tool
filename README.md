@@ -1,7 +1,7 @@
 # The Community Digital Literature Library (CDLL)
 ## Overall
 
-![structure](.\imgs\structure.JPG)
+![structure](.\imgs\structure.JPG)](https://github.com/SALT-Lab-Human-AI/Literature-tool/blob/dev/imgs/structure.JPG)
 
 ## Intro
 
