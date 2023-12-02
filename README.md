@@ -1,5 +1,11 @@
-# The Community Digital Library 
-The Community Digital Library (CDL) is an online and open-source social bookmarking platform that allows you to collaboratively describe and save, search for, and discover webpages related to your interests. We offer a stand-alone website and a Chrome extension, all for free.
+# The Community Digital Literature Library (CDLL)
+## Overall
+
+![structure](.\imgs\structure.JPG)
+
+## Intro
+
+This project is built based on the Community Digital Library (CDL), which is an online and open-source social bookmarking platform that allows you to collaboratively describe and save, search for, and discover webpages related to your interests. We offer a stand-alone website and a Chrome extension, all for free.
 
 
 To use the CDL, you have three options:
@@ -194,7 +200,7 @@ See the API documentation [here](https://github.com/thecommunitydigitallibrary/c
 </details>
 
 
-## Contributors
+## CDL Contributors
 <details>
 <summary>How can I contribute?</summary>
 <br>
@@ -208,9 +214,9 @@ For a longer-term collaboration, big feature, or large change, please send an em
 - Current contributors: Rakshana Jayaprakash, Dhyey Pandya, Kedar Takwane, and Sharath Chandra.
 - Past contributors: Ashwin Patil, Alvin Zhang, Nikhitha Reddeddy, Heth Gala
 
+## CDLL Contributors
 
+<a href="[https://github.com/SALT-Lab-Human-AI/Literature-tool]">
+  <img src="https://contrib.rocks/image?repo=SALT-Lab-Human-AI/Literature-tool" />
+</a>
 
-
-## Publications
-- Kevin Ros and ChengXiang Zhai. 2023. The CDL: An Online Platform for Creating Community-based Digital Libraries. In Computer Supported Cooperative Work and Social Computing (CSCW ’23 Companion), October 14–18, 2023, Minneapolis, MN, USA. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3584931.3607495
-- Kevin Ros, Matthew Jin, Jacob Levine, and ChengXiang Zhai. 2023. Retrieving Webpages Using Online Discussions. In Proceedings of the 2023 ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’23), July 23, 2023, Taipei, Taiwan. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3578337.3605139
